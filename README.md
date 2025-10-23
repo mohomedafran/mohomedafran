@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohomed Afran
 
-🌱 React JS Developer | 🎓 BSc Computer Science Student  
+🌱 Fullstack JS Developer | 🎓 BSc Computer Science Student  
 🚀 Building sleek interfaces & robust backends | 💻 Cybersecurity Enthusiast
 
 ---
